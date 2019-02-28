@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Services na spanjoslki on OptimuSoft</title>
-    <link>http://127.0.0.1:1313/optimuSoft/es/services/</link>
+    <link>https://kosamir.github.io/optimuSoft/es/services/</link>
     <description>Recent content in Services na spanjoslki on OptimuSoft</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
     
-	<atom:link href="http://127.0.0.1:1313/optimuSoft/es/services/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://kosamir.github.io/optimuSoft/es/services/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
