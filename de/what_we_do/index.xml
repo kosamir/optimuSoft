@@ -2,39 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Was wir tun on OptimuSoft</title>
-    <link>https://kosamir.github.io/optimuSoft/de/what_we_do/</link>
+    <link>https://kosamir.github.io/optimuSoft%20/de/what_we_do/</link>
     <description>Recent content in Was wir tun on OptimuSoft</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de</language>
     
-	<atom:link href="https://kosamir.github.io/optimuSoft/de/what_we_do/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://kosamir.github.io/optimuSoft%20/de/what_we_do/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Web-Design</title>
-      <link>https://kosamir.github.io/optimuSoft/de/what_we_do/web_design/</link>
+      <link>https://kosamir.github.io/optimuSoft%20/de/what_we_do/web_design/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://kosamir.github.io/optimuSoft/de/what_we_do/web_design/</guid>
-      <description>Machmal nehme ich Bilder auf Dieses Projekt ist über die Bilder, die ich aufnehme. Machmal sind das Bilder von Katzen.</description>
+      <guid>https://kosamir.github.io/optimuSoft%20/de/what_we_do/web_design/</guid>
+      <description> Web-Design </description>
     </item>
     
     <item>
       <title>Software-Entwicklung</title>
-      <link>https://kosamir.github.io/optimuSoft/de/what_we_do/sw_development/</link>
+      <link>https://kosamir.github.io/optimuSoft%20/de/what_we_do/sw_development/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://kosamir.github.io/optimuSoft/de/what_we_do/sw_development/</guid>
-      <description>Software-Entwicklung</description>
+      <guid>https://kosamir.github.io/optimuSoft%20/de/what_we_do/sw_development/</guid>
+      <description> Software-Entwicklung </description>
     </item>
     
     <item>
       <title>Beratung</title>
-      <link>https://kosamir.github.io/optimuSoft/de/what_we_do/consulting/</link>
+      <link>https://kosamir.github.io/optimuSoft%20/de/what_we_do/consulting/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://kosamir.github.io/optimuSoft/de/what_we_do/consulting/</guid>
-      <description>Beratung</description>
+      <guid>https://kosamir.github.io/optimuSoft%20/de/what_we_do/consulting/</guid>
+      <description> Beratung </description>
     </item>
     
   </channel>
