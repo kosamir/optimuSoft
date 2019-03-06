@@ -2,57 +2,57 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on OptimuSoft</title>
-    <link>https://kosamir.github.io/optimuSoft/tags/</link>
+    <link>http://127.0.0.1:1313/optimuSoft/tags/</link>
     <description>Recent content in Tags on OptimuSoft</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>hr</language>
     <lastBuildDate>Mon, 06 Nov 2017 12:04:06 -0500</lastBuildDate>
     
-	<atom:link href="https://kosamir.github.io/optimuSoft/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://127.0.0.1:1313/optimuSoft/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Code</title>
-      <link>https://kosamir.github.io/optimuSoft/tags/code/</link>
+      <link>http://127.0.0.1:1313/optimuSoft/tags/code/</link>
       <pubDate>Mon, 06 Nov 2017 12:04:06 -0500</pubDate>
       
-      <guid>https://kosamir.github.io/optimuSoft/tags/code/</guid>
+      <guid>http://127.0.0.1:1313/optimuSoft/tags/code/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Coffee</title>
-      <link>https://kosamir.github.io/optimuSoft/tags/coffee/</link>
+      <link>http://127.0.0.1:1313/optimuSoft/tags/coffee/</link>
       <pubDate>Wed, 01 Nov 2017 12:04:16 -0500</pubDate>
       
-      <guid>https://kosamir.github.io/optimuSoft/tags/coffee/</guid>
+      <guid>http://127.0.0.1:1313/optimuSoft/tags/coffee/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Images</title>
-      <link>https://kosamir.github.io/optimuSoft/tags/images/</link>
+      <link>http://127.0.0.1:1313/optimuSoft/tags/images/</link>
       <pubDate>Wed, 01 Nov 2017 12:04:16 -0500</pubDate>
       
-      <guid>https://kosamir.github.io/optimuSoft/tags/images/</guid>
+      <guid>http://127.0.0.1:1313/optimuSoft/tags/images/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Ipsum</title>
-      <link>https://kosamir.github.io/optimuSoft/tags/ipsum/</link>
+      <link>http://127.0.0.1:1313/optimuSoft/tags/ipsum/</link>
       <pubDate>Mon, 13 Nov 2017 11:58:39 -0500</pubDate>
       
-      <guid>https://kosamir.github.io/optimuSoft/tags/ipsum/</guid>
+      <guid>http://127.0.0.1:1313/optimuSoft/tags/ipsum/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Words</title>
-      <link>https://kosamir.github.io/optimuSoft/tags/words/</link>
+      <link>http://127.0.0.1:1313/optimuSoft/tags/words/</link>
       <pubDate>Mon, 13 Nov 2017 11:58:39 -0500</pubDate>
       
-      <guid>https://kosamir.github.io/optimuSoft/tags/words/</guid>
+      <guid>http://127.0.0.1:1313/optimuSoft/tags/words/</guid>
       <description></description>
     </item>
     
