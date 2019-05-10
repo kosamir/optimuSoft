@@ -2,57 +2,57 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on OptimuSoft</title>
-    <link>https://kosamir.github.io/optimusoft/tags/</link>
+    <link>https://kosamir.github.io/optimuSoft/tags/</link>
     <description>Recent content in Tags on OptimuSoft</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
+    <language>hr</language>
     <lastBuildDate>Mon, 06 Nov 2017 12:04:06 -0500</lastBuildDate>
     
-	<atom:link href="https://kosamir.github.io/optimusoft/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://kosamir.github.io/optimuSoft/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Code</title>
-      <link>https://kosamir.github.io/optimusoft/tags/code/</link>
+      <link>https://kosamir.github.io/optimuSoft/tags/code/</link>
       <pubDate>Mon, 06 Nov 2017 12:04:06 -0500</pubDate>
       
-      <guid>https://kosamir.github.io/optimusoft/tags/code/</guid>
+      <guid>https://kosamir.github.io/optimuSoft/tags/code/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Coffee</title>
-      <link>https://kosamir.github.io/optimusoft/tags/coffee/</link>
+      <link>https://kosamir.github.io/optimuSoft/tags/coffee/</link>
       <pubDate>Wed, 01 Nov 2017 12:04:16 -0500</pubDate>
       
-      <guid>https://kosamir.github.io/optimusoft/tags/coffee/</guid>
+      <guid>https://kosamir.github.io/optimuSoft/tags/coffee/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Images</title>
-      <link>https://kosamir.github.io/optimusoft/tags/images/</link>
+      <link>https://kosamir.github.io/optimuSoft/tags/images/</link>
       <pubDate>Wed, 01 Nov 2017 12:04:16 -0500</pubDate>
       
-      <guid>https://kosamir.github.io/optimusoft/tags/images/</guid>
+      <guid>https://kosamir.github.io/optimuSoft/tags/images/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Ipsum</title>
-      <link>https://kosamir.github.io/optimusoft/tags/ipsum/</link>
+      <link>https://kosamir.github.io/optimuSoft/tags/ipsum/</link>
       <pubDate>Mon, 13 Nov 2017 11:58:39 -0500</pubDate>
       
-      <guid>https://kosamir.github.io/optimusoft/tags/ipsum/</guid>
+      <guid>https://kosamir.github.io/optimuSoft/tags/ipsum/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Words</title>
-      <link>https://kosamir.github.io/optimusoft/tags/words/</link>
+      <link>https://kosamir.github.io/optimuSoft/tags/words/</link>
       <pubDate>Mon, 13 Nov 2017 11:58:39 -0500</pubDate>
       
-      <guid>https://kosamir.github.io/optimusoft/tags/words/</guid>
+      <guid>https://kosamir.github.io/optimuSoft/tags/words/</guid>
       <description></description>
     </item>
     
