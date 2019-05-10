@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>What we do on OptimuSoft</title>
+    <link>https://kosamir.github.io/optimuSoft/en/what_we_do/</link>
+    <description>Recent content in What we do on OptimuSoft</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://kosamir.github.io/optimuSoft/en/what_we_do/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Web design</title>
+      <link>https://kosamir.github.io/optimuSoft/en/what_we_do/web_design/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://kosamir.github.io/optimuSoft/en/what_we_do/web_design/</guid>
+      <description>Make higher client conversion by employing UX design techniques and appealing beautiful design to your public websites or social networks.
+Make your company stand out from your competitors present your company with a beautiful website!  get higher client conversion by placing important information and actions at best places
+ get higher page ranking in search engines with SEO optimization techniques
+ connect with social networks and get more potential clients to your website</description>
+    </item>
+    
+    <item>
+      <title>Software development</title>
+      <link>https://kosamir.github.io/optimuSoft/en/what_we_do/sw_development/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://kosamir.github.io/optimuSoft/en/what_we_do/sw_development/</guid>
+      <description>SERVER-SIDE DEVELOPMENT Server-side development can vary in complexity, but that is not something you should worry about as our client. It can be simple as a CRUD API or complex as scalable could application. If you need to make a server-side system from scratch or you need to extends current one, we are your team.
+We like challenges, technologies are no obstacle for us! We can handle any leading server-side technology (.</description>
+    </item>
+    
+    <item>
+      <title>Consulting</title>
+      <link>https://kosamir.github.io/optimuSoft/en/what_we_do/consulting/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://kosamir.github.io/optimuSoft/en/what_we_do/consulting/</guid>
+      <description>Aromatic aroma con panna, crema so coffee robust coffee barista, café au lait trifecta that strong blue mountain cortado aftertaste. Aroma extraction french press, skinny sweet, blue mountain cup roast barista, beans, extra cappuccino mug crema strong.
+To go viennese cream to go, flavour, so mocha as, carajillo iced et a siphon froth. Aged, eu, cup, brewed aroma kopi-luwak, coffee, id viennese french press brewed grounds acerbic froth. Decaffeinated acerbic, spoon beans seasonal, french press café au lait mazagran roast chicory, pumpkin spice galão as fair trade, dark irish cup ristretto half and half whipped shop.</description>
+    </item>
+    
+  </channel>
+</rss>
